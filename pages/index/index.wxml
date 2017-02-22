@@ -1,0 +1,8 @@
+<!-- wxml是小程序的项目骨架 -->
+<view class="container">
+    <image class="user-avater" src="/images/1.png"></image>
+    <text class="user-name">hello,tinnkm</text>
+    <view class="moto-container">
+        <text class="moto">开启冒险之旅</text>
+    </view>
+</view>
